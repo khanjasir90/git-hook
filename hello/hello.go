@@ -7,5 +7,5 @@ import (
 
 func main() {
 	msg := greetings.Greeting()
-	fmt.Println(msg)
+fmt.Println(msg)
 }
